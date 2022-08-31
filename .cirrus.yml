@@ -10,6 +10,7 @@ env: # Environment variables to pass to all tasks
 
 # store information about git here
     gmail: ehteshammalik18998@gmail.com
+    REAL_REPO_OWNER: wHo-EM-i
 
 # User Version ( dont touch )
     user_version: 2 # lets start from 1
